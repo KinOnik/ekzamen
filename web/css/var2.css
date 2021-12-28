@@ -1,0 +1,35 @@
+body {
+	background-image: url(../img/fon2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat repeat;
+}
+
+img {
+	float: right;
+	width: 340px;
+	height: 254px;
+	margin-top: 9vh;
+	margin-right: 10vw;
+}
+
+p{
+	float: left;
+	width: 350px;
+	font-family: Arial;
+	font-size: 24px;
+	font-weight: bold;
+	font-style:italic;
+	text-decoration: underline;
+	border: 5px double MediumBlue;
+	background-color: Tomato;
+	margin-top: 10vh;
+	margin-left: 10vw;
+	padding: 2%;
+}
+
+h1 {
+	font-size: 52px;
+	font-weight: bold;
+	font-style:italic;
+	text-decoration: underline;
+}
